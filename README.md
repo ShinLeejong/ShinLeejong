@@ -51,7 +51,6 @@ You can easily message me via the platforms.
 | Platform | Address |
 | ------ | ------ |
 | Lee's Blog | [https://iiy4383.github.io/Vue_blog][LeeBlog] |
-| GitHub | [https://github.com/iiy4383][LeeGithub] |
 | Facebook | [https://www.facebook.com/profile.php?id=100032943661331][LeeFacebook] |
 | Instagram | [https://www.instagram.com/___9510251][LeeInstagram] |
 
@@ -61,7 +60,6 @@ Email: spinburgjexer@gmail.com
 Kakaotalk ID: rker
 </pre>
 
-   [LeeBlog]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [LeeGithub]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
+   [LeeBlog]: <https://iiy4383.github.io/Vue_Blog>
    [LeeFacebook]: <https://www.facebook.com/profile.php?id=100032943661331>
    [LeeInstagram]: <https://www.instagram.com/___9510251/>
