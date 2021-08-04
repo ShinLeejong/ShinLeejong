@@ -7,7 +7,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1D?style=flat-square&logo=JavaScript&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)]()
 
-## I Could(Partially, or often use)❤️
+## I Could(Partially, or often use)🙂
 - Medium-High Adeptness     
 [![Vue2](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)]()
 [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)]()
