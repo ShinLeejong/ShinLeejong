@@ -60,6 +60,6 @@ Email: spinburgjexer@gmail.com
 Kakaotalk ID: rker
 </pre>
 
-   [LeeBlog]: <https://iiy4383.github.io/Vue_Blog>
+   [LeeBlog]: <https://iiy4383.github.io/Vue_blog>
    [LeeFacebook]: <https://www.facebook.com/profile.php?id=100032943661331>
    [LeeInstagram]: <https://www.instagram.com/___9510251/>
