@@ -6,19 +6,19 @@
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1D?style=flat-square&logo=JavaScript&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)]()
+[![Vue2](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)]()
 
 ## I Could(Partially, or often use)🙂
 - Medium-High Adeptness     
-[![Vue2](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)]()
 [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)]()
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)]()
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=white)]()
-[![Svelte](https://img.shields.io/badge/Svelte-FF3E88?style=flat-square&logo=Svelte&logoColor=white)]()
 - Medium Adeptness      
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-FFCA28?style=flat-square&logo=Firebase&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)]()
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)]()
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=white)]()
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E88?style=flat-square&logo=Svelte&logoColor=white)]()
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)]()
 
 - Low-Medium Adeptness      
