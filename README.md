@@ -13,17 +13,18 @@
 [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)]()
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)]()
 - Medium Adeptness      
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-FFCA28?style=flat-square&logo=Firebase&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)]()
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)]()
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=white)]()
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E88?style=flat-square&logo=Svelte&logoColor=white)]()
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)]()
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)]()
 
 - Low-Medium Adeptness      
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]()
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)]()
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)]()
 [![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)]()
 [![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=Fastify&logoColor=white)]()
@@ -37,7 +38,6 @@
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)]()
 [![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white)]()
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]()
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)]()
 
