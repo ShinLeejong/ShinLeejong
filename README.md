@@ -12,20 +12,22 @@
 - Medium-High Adeptness     
 [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)]()
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)]()
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E88?style=flat-square&logo=Svelte&logoColor=white)]()
+[![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=AngularJS&logoColor=white)]()
+
 - Medium Adeptness      
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-FFCA28?style=flat-square&logo=Firebase&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)]()
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)]()
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=white)]()
-[![Svelte](https://img.shields.io/badge/Svelte-FF3E88?style=flat-square&logo=Svelte&logoColor=white)]()
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)]()
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)]()
 
 - Low-Medium Adeptness      
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]()
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)]()
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)]()
 [![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)]()
 [![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=Fastify&logoColor=white)]()
 [![Nest](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white)]()
