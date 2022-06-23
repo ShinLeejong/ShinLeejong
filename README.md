@@ -14,6 +14,8 @@
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)]()
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E88?style=flat-square&logo=Svelte&logoColor=white)]()
 [![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=AngularJS&logoColor=white)]()
+[![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white)]()
+[![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white)]()
 
 - Medium Adeptness      
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)]()
@@ -39,7 +41,6 @@
 [![Pug](https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white)]()
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)]()
-[![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]()
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)]()
 
